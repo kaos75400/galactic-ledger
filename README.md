@@ -54,6 +54,23 @@ The gameplay style is similar to *Civilization* — node-based galactic map, pla
 
 Minimalist space luxury. Deep space backgrounds with subtle purple and blue nebulas. Translucent holographic UI elements with thin gold and blue borders. Clean geometric typography. Zero clutter, maximum clarity.
 
+### Concept Art
+
+<p align="center">
+  <img src="docs/concept-art/01-galactic-map.png" alt="Galactic Map" width="100%">
+  <br><em>Galactic Map — Node-based trade network with active routes and economic hubs</em>
+</p>
+
+<p align="center">
+  <img src="docs/concept-art/02-economy-panel.png" alt="Economy Panel" width="100%">
+  <br><em>Economy Panel — Isometric city view with holographic financial dashboards</em>
+</p>
+
+<p align="center">
+  <img src="docs/concept-art/03-economic-crisis.png" alt="Economic Crisis" width="100%">
+  <br><em>Economic Crisis Event — Market crash with cascading system failures</em>
+</p>
+
 ## Tech Stack
 
 > **TBD** — Engine and framework to be decided during pre-production.
@@ -67,7 +84,7 @@ Candidates under evaluation:
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/galactic-ledger.git
+git clone https://github.com/kaos75400/galactic-ledger.git
 cd galactic-ledger
 
 # Setup instructions will be added once tech stack is finalized
